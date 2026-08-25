@@ -36,11 +36,13 @@ I took AP Computer Science Principles.
 I learned about def statements.
 
 **What is something from last year that you have mostly forgotten?**
-
+Python vocabulary.
 
 **Outside of school, what are you interested in?**
+Video games
 
 **What is something you're particularly good at — technology related or not?**
+I'm more of a moderate good at a lot of things.
 
 ## Part 2 — You and Computer Science
 
@@ -48,27 +50,28 @@ I learned about def statements.
 
 **Using a scale of 1–5, rate your current confidence with each of these:**
 
-* Programming
+* Programming - 3
 
-* Python
+* Python - 3
 
-* Debugging
+* Debugging - 4
 
-* GitHub
+* GitHub - 1
 
-* VS Code
+* VS Code - 4
 
-* Working with files and folders
+* Working with files and folders - 3
 
-* Using the terminal
+* Using the terminal - 3
 
-* Figuring things out when nobody gives you step-by-step instructions
+* Figuring things out when nobody gives you step-by-step instructions - 5
 
 ### Then answer:
 
 **Which rating are you most confident about? Why?**
+I am the most confident about figuring things out when nobody gives step-by-step instructions because I know how to get answers to my questions on my own and I know how to apply what I know abstractly.
 
-**Which rating do you most want to improve this year? Why?**
+**Which rating do you most want to improve this year? Why?** Github, because i've never used it before so it looks really messy and confusing to me.
 
 ## Part 3 — Pick Your Poison
 
@@ -98,7 +101,7 @@ Choose one:
 
 - **Game development** or AI
 
-- Cybersecurity or Data Science
+- Cybersecurity or **Data Science**
 
 ## Part 4 — Your Technology
 
@@ -108,15 +111,25 @@ Choose one:
 
 Your answer can be hardware, software, an app, a website, a device, etc.
 
+A computer.
+
 **What technology do you think is overrated?**
+
+Consoles
 
 Explain.
 
+Computers are not that much more expensive especially with the prices of consoles recently.
+
 **What technology do you wish existed?**
+
+
 
 It can be realistic or completely ridiculous.
 
 **What is something computers are currently bad at?**
+
+
 
 **What is one technology-related issue you think people your age should care about?**
 
@@ -128,11 +141,15 @@ It can be realistic or completely ridiculous.
 
 You have access to computers, the internet, programming tools, and reasonable school resources.
 
-What would you build?
+**What would you build?**
+
+
 
 ### Describe:
 
 **What it would do**
+
+
 
 **Who would use it**
 
@@ -140,7 +157,7 @@ What would you build?
 
 **What you would need to learn in order to make it**
 
-**Don't worry about whether you currently know how to build it.**
+*Don't worry about whether you currently know how to build it.**
 
 ### Part 6 — Prove You Know Markdown
 
@@ -157,10 +174,6 @@ What would you build?
 - A numbered list
 
 - A blockquote
-
-- Inline code
-
-- A code block
 
 - A link
 
@@ -179,6 +192,8 @@ What would you build?
 Save the image inside:
 
 **images/**
+
+![Happy computer](Images/Computer.jpg)
 
 Then display it in your README using Markdown.
 
@@ -236,25 +251,26 @@ At the very bottom of your README, add:
 **Status Check**
 
 What part of creating, committing, and pushing this repository was hardest for you today?
+Working github and figuring out how to commit.
 
 If nothing was difficult, explain the Git/GitHub workflow in your own words.
 
 **Submission**
 
-Submit the URL to your GitHub repository.
+**Submit the URL to your GitHub repository.**
 
 Your grade is based primarily on successfully demonstrating that you can:
 
-Organize files and folders
+- Organize files and folders
 
-Write Markdown
+- Write Markdown
 
-Use VS Code
+- Use VS Code
 
-Use Git
+- Use Git
 
-Make meaningful commits
+- Make meaningful commits
 
-Push a repository to GitHub
+- Push a repository to GitHub
 
-Verify your work
+- Verify your work
