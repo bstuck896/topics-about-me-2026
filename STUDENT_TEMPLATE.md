@@ -7,11 +7,11 @@ At the same time, we're going to make sure your development environment is actua
 ### Your Task
 ---
 
-Create a folder/repository named:
+**Create a folder/repository named:**
 
-topics-about-me
+### topics-about-me
 
-Your finished project should have the following structure:
+**Your finished project should have the following structure:**
 
 topics-about-me/
 │
@@ -20,7 +20,7 @@ topics-about-me/
 └── images/
     └── something-you-like.jpg
 
-Your README.md will contain your responses to the questions below.
+**Your README.md will contain your responses to the questions below.**
 
 ## Part 1 — The Basics
 
@@ -81,7 +81,7 @@ Example:
 
 Python or **Java**
 
-Choose one:
+**Choose one:**
 
 - Python or **Java**
 
@@ -91,7 +91,7 @@ Choose one:
 
 - Build something useful or **build something ridiculous**
 
-- Work alone or work with a team
+- Work alone or **work with a team**
 
 - Hardware or **Software**
 
@@ -117,7 +117,7 @@ A computer.
 
 Consoles
 
-Explain.
+*Explain.*
 
 Computers are not that much more expensive especially with the prices of consoles recently, and they can do so much more.
 
@@ -125,7 +125,7 @@ Computers are not that much more expensive especially with the prices of console
 
 AI thats better at getting correct and usable information.
 
-It can be realistic or completely ridiculous.
+*It can be realistic or completely ridiculous.*
 
 **What is something computers are currently bad at?**
 
@@ -145,13 +145,13 @@ You have access to computers, the internet, programming tools, and reasonable sc
 
 **What would you build?**
 
-I would build a chess game with a twist.
+I would build a [chess game](https://www.chess.com/) with a twist.
 
 ### Describe:
 
 **What it would do**
 
-It would be normal chess but a random chess piece teleports at the end of a turn.
+It would be normal chess but a random chess piece teleports to a random open spot at the end of a turn.
 
 **Who would use it**
 
@@ -183,7 +183,7 @@ I would need to learn how to make visuals, I know how to print stuff in a termin
 
 >6. ~~A blockquote~~
 
-7. A link
+7. ~~A link~~
 
 8. ~~An image~~
 
@@ -244,13 +244,13 @@ Before submitting, open your repository on GitHub, not just VS Code.
 
 **Make sure:**
 
-Your README displays correctly.
+- Your README displays correctly.
 
-Your image displays.
+- Your image displays.
 
-Your latest changes appear online.
+- Your latest changes appear online.
 
-Your commit history contains at least three commits.
+- Your commit history contains at least three commits.
 
 ### Final Question
 
@@ -258,9 +258,9 @@ At the very bottom of your README, add:
 
 **Status Check**
 
-What part of creating, committing, and pushing this repository was hardest for you today?
+**What part of creating, committing, and pushing this repository was hardest for you today?**
 
-Mistake in where the folder was placed without me knowing.
+There was a mistake in where the folder was placed without me knowing which threw off the entire process.
 
 *If nothing was difficult, explain the Git/GitHub workflow in your own words.*
 
