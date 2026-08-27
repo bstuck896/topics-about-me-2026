@@ -54,15 +54,15 @@ I'm more of a moderate good at a lot of things.
 
 * Python - 3
 
-* Debugging - 4
+* Debugging - 3
 
 * GitHub - 1
 
-* VS Code - 4
+* VS Code - 3
 
 * Working with files and folders - 3
 
-* Using the terminal - 3
+* Using the terminal - 4
 
 * Figuring things out when nobody gives you step-by-step instructions - 5
 
@@ -119,19 +119,21 @@ Consoles
 
 Explain.
 
-Computers are not that much more expensive especially with the prices of consoles recently.
+Computers are not that much more expensive especially with the prices of consoles recently, and they can do so much more.
 
 **What technology do you wish existed?**
 
-
+AI thats better at getting correct and usable information.
 
 It can be realistic or completely ridiculous.
 
 **What is something computers are currently bad at?**
 
-
+They take everything exactly how you say it, which makes it vulnerable to mistakes.
 
 **What is one technology-related issue you think people your age should care about?**
+
+Effects on personal health when overused.
 
 ## Part 5 — Build Something
 
@@ -143,19 +145,25 @@ You have access to computers, the internet, programming tools, and reasonable sc
 
 **What would you build?**
 
-
+I would build a chess game with a twist.
 
 ### Describe:
 
 **What it would do**
 
-
+It would be normal chess but a random chess piece teleports at the end of a turn.
 
 **Who would use it**
 
+People who are at least somewhat interested in chess and chess gamemodes.
+
 **Why you would want to build it**
 
+It seems like a fun game to play.
+
 **What you would need to learn in order to make it**
+
+I would need to learn how to make visuals, I know how to print stuff in a terminal I don't know how to make a game though.
 
 *Don't worry about whether you currently know how to build it.**
 
@@ -163,23 +171,23 @@ You have access to computers, the internet, programming tools, and reasonable sc
 
 **Your document must contain all of the following:**
 
-- At least three heading levels
+#### 1. At least three heading levels
 
-- Bold text
+2. ~~**Bold text**~~
 
-- Italic text
+3. ~~*Italic text*~~
 
-- A bulleted list
+4. ~~A bulleted list~~
 
-- A numbered list
+5. ~~A numbered list~~
 
-- A blockquote
+>6. ~~A blockquote~~
 
-- A link
+7. A link
 
-- An image
+8. ~~An image~~
 
-- A horizontal rule
+9. ~~A horizontal rule~~
 
 **Do not add these randomly at the bottom of the document.**
 
@@ -237,8 +245,6 @@ Before submitting, open your repository on GitHub, not just VS Code.
 **Make sure:**
 
 Your README displays correctly.
-asdf 
-
 
 Your image displays.
 
@@ -253,9 +259,10 @@ At the very bottom of your README, add:
 **Status Check**
 
 What part of creating, committing, and pushing this repository was hardest for you today?
-Working github and figuring out how to commit and push.
 
-If nothing was difficult, explain the Git/GitHub workflow in your own words.
+Mistake in where the folder was placed without me knowing.
+
+*If nothing was difficult, explain the Git/GitHub workflow in your own words.*
 
 **Submission**
 
